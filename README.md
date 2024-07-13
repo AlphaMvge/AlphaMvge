@@ -1,4 +1,4 @@
-White-ish Hat Security
+grey Hat Security
 
 <!---
 AlphaMvge/AlphaMvge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
